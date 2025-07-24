@@ -27,8 +27,9 @@ Enter your repo URL and customize the preview.
 ### 🏠 Home Page  
 ![Home page](./assets/home.png)
 
-### 🧩 Projects Section  
-![Projects](./assets/projects.png)
+### 📄 About Section Preview  
+![Page 2 Preview](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page2.png?raw=true)
+
 
 ### 👤 About Section  
 ![About](./assets/about.png)
