@@ -25,17 +25,17 @@ Enter your repo URL and customize the preview.
 ## 🖼️ Project Screenshots
 
 ### 🏠 Home Page  
-![Home page](./assets/home.png)
+![Home page](./assets/home.png)](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page1.png)
 
-### 📄 About Section Preview  
+### 📄 About Us
 ![Page 2 Preview](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page2.png?raw=true)
 
 
-### 👤 About Section  
-![About](./assets/about.png)
+### 👤 Research Paper 
+![About](./assets/about.png)](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page3.png)](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page4.png)
 
 ### 📩 Contact Form  
-![Contact](./assets/contact.png)
+![Contact](./assets/contact.png)](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page5.png)
 
 ---
 
