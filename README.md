@@ -1,6 +1,7 @@
 # Portfolio 🚀
 
-**A modern and responsive personal portfolio website built by Christopher Ambatti for 2025 showcasing front‑end and back‑end projects.**
+**A modern and responsive personal portfolio website built by Christopher Ambatti for 2025, showcasing front-end and back-end projects.**
+
 
 ---
 
@@ -16,9 +17,7 @@ Enter your repo URL and customize the preview.
 
 ---
 
-## 📊 Badges  
-![GitHub license](https://img.shields.io/github/license/chrisambatti/Portfolioo)  
-![GitHub stars](https://img.shields.io/github/stars/chrisambatti/Portfolioo?style=social)  
+## 📊 Badges 
 ![Commit activity](https://img.shields.io/github/commit-activity/m/chrisambatti/Portfolioo)
 
 ---
@@ -42,12 +41,11 @@ Enter your repo URL and customize the preview.
 
 
 ---
-
 ## ✅ Features  
-- Responsive design for mobile and desktop  
-- Projects showcase with live links and descriptions  
-- Smooth scrolling and interactive navigation  
-- Clean contact form (integrated with Email or Firebase)
+- ⚡ Responsive design for mobile and desktop  
+- 🧠 Projects showcase with live links and descriptions  
+- 🎯 Smooth scrolling and interactive navigation  
+- 📩 Clean contact form (integrated with Email or Firebase)
 
 ---
 
@@ -56,3 +54,15 @@ Enter your repo URL and customize the preview.
 1. Clone the repository  
    ```bash
    git clone https://github.com/chrisambatti/Portfolioo.git
+
+2. Navigate to the project folder
+   ```bash
+   cd Portfolioo
+
+3. Install dependencies (if applicable)
+   ```bash
+   npm install
+
+4. Run the app locally
+   ```bash
+   npm start
