@@ -32,6 +32,8 @@ Enter your repo URL and customize the preview.
 
 ### 👤 Projects  
 [![Page 3 Preview](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page3.png?raw=true)](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page3.png?raw=true)  
+
+### 🔎 Research
 [![Page 4 Preview](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page4.png?raw=true)](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page4.png?raw=true)
 
 ### 📩 Contact Form  
