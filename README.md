@@ -25,17 +25,17 @@ Enter your repo URL and customize the preview.
 ## 🖼️ Project Screenshots
 
 ### 🏠 Home Page  
-[![Home page](./assets/home.png)](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page1.png?raw=true)
+[![Home page](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page1.png?raw=true)](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page1.png?raw=true)
 
 ### 📄 About Us  
 [![Page 2 Preview](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page2.png?raw=true)](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page2.png?raw=true)
 
 ### 👤 Projects  
-[![About](./assets/about.png)](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page3.png?raw=true)  
-[![Research Paper Page 4](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page4.png?raw=true)](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page4.png?raw=true)
+[![Page 3 Preview](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page3.png?raw=true)](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page3.png?raw=true)  
+[![Page 4 Preview](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page4.png?raw=true)](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page4.png?raw=true)
 
 ### 📩 Contact Form  
-[![Contact](./assets/contact.png)](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page5.png?raw=true)
+[![Contact](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page5.png?raw=true)](https://github.com/chrisambatti/Portfolioo/blob/main/assets/page5.png?raw=true)
 
 
 ---
