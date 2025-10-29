@@ -6,7 +6,7 @@
 ---
 
 ## 🎯 Project Demo  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge&logo=vercel)](https://chris-ambatti-portfolio.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge&logo=vercel)](https://portfolioo-chi-seven.vercel.app/)
 
 
 ---
